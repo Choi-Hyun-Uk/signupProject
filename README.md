@@ -11,6 +11,7 @@
 - Next.js
 - @reduxjs/toolkit
 - @emotion (css)
+- axios
 
 **백(서버)**
 - Node.js
