@@ -10,6 +10,7 @@
 - React
 - Next.js
 - @reduxjs/toolkit
+- @emotion (css)
 
 **백(서버)**
 - Node.js
